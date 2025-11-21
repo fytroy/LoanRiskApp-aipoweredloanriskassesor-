@@ -1,6 +1,6 @@
  🏦 AI-Powered Loan Risk Assessment App
 
-![App Screenshot](https://via.placeholder.com/800x400?text=App+Screenshot+Placeholder)
+![App Screenshot]([https://via.placeholder.com/800x400?text=App+Screenshot+Placeholder](https://github.com/fytroy/LoanRiskApp-aipoweredloanriskassesor-/blob/main/App_Screenshot.png))
 (Replace this link with your actual screenshot from the browser)
 
  📖 Overview
