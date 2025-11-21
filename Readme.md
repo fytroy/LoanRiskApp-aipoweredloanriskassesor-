@@ -1,6 +1,6 @@
  🏦 AI-Powered Loan Risk Assessment App
 
-![App Screenshot]([https://via.placeholder.com/800x400?text=App+Screenshot+Placeholder](https://github.com/fytroy/LoanRiskApp-aipoweredloanriskassesor-/blob/main/App_Screenshot.png))
+![App Screenshot](App_Screenshot.png)
 
  📖 Overview
 This project is a Predictive Analytics application designed to help loan officers make data-driven decisions. 
